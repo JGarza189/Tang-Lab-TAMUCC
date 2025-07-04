@@ -1,14 +1,16 @@
 # Dr. Tang Plankton Lab – Data Repository
 
-This private repository contains internal culture logs and experimental records maintained by the Tang Plankton Lab at Texas A&M University – Corpus Christi.
+This private repository serves as a centralized hub for internal data management, protocols, and literature used by the Tang Plankton Lab at Texas A&M University – Corpus Christi. It supports research focused on the cultivation and experimental use of zooplankton and microalgae in aquaculture and ecological studies.
 
-Maintained by: Joseph Garza  
-Position: Research Laboratory Technician (July 2025 – Present)
+**Maintained by:** Joseph Garza  
+**Position:** Research Laboratory Technician (July 2025 – Present)
 
-Contents include:
-- Daily cultivation records of zooplankton and microalgae
-- Water quality measurements
-- Fluorescence microscopy observations
-- Media preparation logs
+### Contents Include:
+- Daily logs tracking the growth and maintenance of Daphnia and microalgal cultures  
+- Water quality assays, including temperature, pH, and nutrient conditions  
+- Fluorescence microscopy observations and photodocumentation  
+- Protocols for sterile media preparation and culture handling  
+- Annotated literature and background references to inform experimental design  
+- Planning documents and notes supporting ongoing research objectives  
 
-This repository is for internal lab use only and is not intended for public distribution or publication.
+> **Note:** This repository is for internal lab use only and is not intended for public distribution or publication.
