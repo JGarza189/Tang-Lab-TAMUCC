@@ -3,7 +3,7 @@
 This private repository serves as a centralized hub for internal data management, protocols, and literature used by the Tang Plankton Lab at Texas A&M University – Corpus Christi. It supports research focused on the cultivation and experimental use of zooplankton and microalgae in aquaculture and ecological studies.
 
 **Principal Investigator:** Dr. Kam Wing Tang  
-**Maintained by:** Joseph Garza
+**Maintained by:** Joseph Garza (July 2025 - Present)
 
 ### Contents Include:
 - Daily logs tracking the growth and maintenance of Daphnia and microalgal cultures  
